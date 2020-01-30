@@ -3,7 +3,7 @@
 ### [+] Disclaimer :
 ***BashFuscate is a tool to Encrypt Bash Script into an unreadble format to prevent copying.This Tool is created for Educational Purpose only.I am not responsible for any misuse of this tool.***
 
-<img src="https://i.ibb.co/Y8G4FsC/Screenshot-Capture-2019-12-13-15-22-32-675.jpg" alt="1" border="0">
+<img src="https://i.ibb.co/Y0MVJTS/2020-01-30-12-28-18-Screenshot.jpg" alt="1" border="0">
 
 ## [+] Installation :
 
